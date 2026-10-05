@@ -447,14 +447,17 @@ Your account has been created.
 
 # 📸 Screenshots
 
-Add screenshots of your application here after running the project.
-
-Example:
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/615065d3-6534-49fa-8588-913da5b6002e" />
 
 ```markdown
 ## 📸 Screenshots
+### For wrong input data validations:
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/c32fe3d1-ec5f-4a8f-acf6-3caa610158b6" />
+### For correct input data validations:
+<img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/b6a386d9-a515-45d7-94a1-01d178f796b9" />
+Final output:
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/ffc2b805-fae0-43b4-8fe4-5f66e366cef7" />
 
-![Registration Portal](screenshots/registration-page.png)
 ```
 
 Recommended folder:
