@@ -453,16 +453,9 @@ Your account has been created.
 
 ### For correct input data validations:
 <img width="1918" height="1032" alt="image" src="https://github.com/user-attachments/assets/b6a386d9-a515-45d7-94a1-01d178f796b9" />
-# Final output:
+## Final output:
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/ffc2b805-fae0-43b4-8fe4-5f66e366cef7" />
-```markdown
-```
 
-Recommended folder:
-
-```text
-screenshots/
-└── registration-page.png
 ```
 
 ---
